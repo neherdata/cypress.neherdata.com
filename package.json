@@ -1,5 +1,5 @@
 {
-  "name": "www-neherdata-com",
+  "name": "cypress.neherdata.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,7 +30,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://neherdata.com",
+  "homepage": "cypress.neherdata.com",
   "eslintConfig": {
     "extends": [
       "react-app",
