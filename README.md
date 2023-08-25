@@ -25,14 +25,10 @@
         href="https://www.facebook.com/neherdata">Facebook</a> • <a href="https://instagram.com/neherdata">Instagram</a>
     </p>
 
-<h1 align="center">Neher Data Systems Homepage</h1>
-<h2 align="center"><i>Hosted on GitHub and Built on AWS Amplify</i></h2>
+<h1 align="center">Neher Data Systems Homepage w/ Cypress!</h1>
+<h2 align="center"><i>Hosted on GitHub and Tested with Cypress</i></h2>
 <h2 align="center"><i><a href="https://www.neherdata.com">www.neherdata.com</a></i></h2>
 
 <!-- [Apple Maps Link to Address](http://maps.apple.com/?address=106,Secretariat+Ct,Tinton+Falls,New+Jersey&dirflg=d&t=m) -->
 <!-- [Apple Maps Link to Query](http://maps.apple.com/?q=Neher+Data+Systemsdirflg=d&t=m) -->
 
-
-```html
-<script src="https://broadbandnow.com/widgets/map.js" async></script><a class="bbn-embed" data-widget="state" data-width="" target="_blank" aria-label="Broadband Map. Opens in a new window" href="https://broadbandnow.com/New-Jersey">New Jersey Broadband Map</a>
-```
