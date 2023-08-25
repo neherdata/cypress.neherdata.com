@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cypress.neherdata.com/static/css/main.29bd44eb.css",
+    "main.js": "/cypress.neherdata.com/static/js/main.043b082c.js",
+    "static/js/496.074f2261.chunk.js": "/cypress.neherdata.com/static/js/496.074f2261.chunk.js",
+    "static/media/ndslogo.png": "/cypress.neherdata.com/static/media/ndslogo.cfa1f3ff50b93d59b1a8.png",
+    "index.html": "/cypress.neherdata.com/index.html",
+    "main.29bd44eb.css.map": "/cypress.neherdata.com/static/css/main.29bd44eb.css.map",
+    "main.043b082c.js.map": "/cypress.neherdata.com/static/js/main.043b082c.js.map",
+    "496.074f2261.chunk.js.map": "/cypress.neherdata.com/static/js/496.074f2261.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29bd44eb.css",
+    "static/js/main.043b082c.js"
+  ]
+}
