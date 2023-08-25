@@ -31,6 +31,7 @@ function App() {
         <div className="icon-bar-1">
           <a href="mailto:hello@neherdata.com?cc=tyler@neherdata.com, joe@neherdata.com&subject=Contact%20Neher%20Data%20Systems%20%5Bneherdata.com%5D">
             <FontAwesomeIcon
+              data-cy="email"
               icon={faEnvelope}
               inverse
               style={{
@@ -43,6 +44,7 @@ function App() {
           </a>
           <a href="tel:+17326143717">
             <FontAwesomeIcon
+              data-cy="telephone"
               icon={faPhone}
               inverse
               style={{
@@ -55,6 +57,7 @@ function App() {
           </a>
           <a href="fax:+17323387791">
             <FontAwesomeIcon
+              data-cy="fax"
               icon={faFax}
               inverse
               style={{
@@ -70,6 +73,7 @@ function App() {
         <div className="icon-bar-2">
           <a href="https://www.github.com/neherdata">
             <FontAwesomeIcon
+              data-cy="github"
               icon={faGithub}
               inverse
               style={{
@@ -82,6 +86,7 @@ function App() {
           </a>
           <a href="https://www.facebook.com/neherdata">
             <FontAwesomeIcon
+              data-cy="facebook"
               icon={faFacebook}
               inverse
               style={{
@@ -94,6 +99,7 @@ function App() {
           </a>
           <a href="https://wa.me/message/V3ZSOBODWGPPE1">
             <FontAwesomeIcon
+              data-cy="whatsapp"
               icon={faWhatsapp}
               inverse
               style={{
@@ -106,6 +112,7 @@ function App() {
           </a>
           <a href="https://www.instagram.com/neherdata">
             <FontAwesomeIcon
+              data-cy="instagram"
               icon={faInstagram}
               inverse
               style={{
@@ -118,6 +125,7 @@ function App() {
           </a>
           <a href="https://m.me/neherdata">
             <FontAwesomeIcon
+              data-cy="facebook-messenger"
               icon={faFacebookMessenger}
               inverse
               style={{
@@ -130,6 +138,7 @@ function App() {
           </a>
           <a href="https://apps.apple.com/us/developer/neher-co-data-systems-llc/id1619722081">
             <FontAwesomeIcon
+              data-cy="apple-app-store"
               icon={faAppStoreIos}
               inverse
               style={{
@@ -150,8 +159,13 @@ function App() {
         </div>
         <div className="footer-links">
           <br />
-          <a href="https://tos.neherdata.com">Terms of Service</a> |{" "}
-          <a href="https://privacy.neherdata.com">Privacy Policy</a>
+          <a data-cy="tos-link" href="https://tos.neherdata.com">
+            Terms of Service
+          </a>{" "}
+          |{" "}
+          <a data-cy="privacy-link" href="https://privacy.neherdata.com">
+            Privacy Policy
+          </a>
         </div>
       </footer>
     </div>

@@ -22,9 +22,12 @@
     "web-vitals": "^3.4.0"
   },
   "devDependencies": {
+    "@testing-library/cypress": "^9.0.0",
+    "cypress": "^12.17.4",
     "nth-check": ">=2.1.1"
   },
   "scripts": {
+    "e2e": "cypress run",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
